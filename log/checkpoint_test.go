@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/trillian-examples/formats/log"
+	"github.com/mhutchinson/trillian-formats/log"
 )
 
 func TestMarshal(t *testing.T) {
